@@ -1,0 +1,15 @@
+{
+  "node": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "quotmark": "double",
+  "undef": true,
+  "unused": false,
+  "trailing": true,
+  "smarttabs": true,
+  "laxcomma": true,
+  "onevar": false,
+  "asi": true
+}
+
