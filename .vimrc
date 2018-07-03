@@ -31,6 +31,7 @@ Plugin 'ervandew/screen'
 Plugin 'jelera/vim-javascript-syntax'
 Plugin 'moll/vim-node'
 Plugin 'walm/jshint.vim'
+Plugin 'kaicataldo/material.vim'
 
 " ...
 
@@ -38,8 +39,12 @@ Plugin 'walm/jshint.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
+" For colors
+"if (has("termguicolors"))
+"  set termguicolors
+"endif
 
-colorscheme zenburn
+colorscheme material
 
 
 set encoding=utf-8
