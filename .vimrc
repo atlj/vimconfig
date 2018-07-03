@@ -40,9 +40,9 @@ call vundle#end()            " required
 filetype plugin indent on    " required
 
 " For colors
-"if (has("termguicolors"))
-"  set termguicolors
-"endif
+if (has("termguicolors"))
+  set termguicolors
+endif
 let g:material_theme_style = 'palenight'
 colorscheme material
 
