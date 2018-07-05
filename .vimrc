@@ -31,7 +31,7 @@ Plugin 'ervandew/screen'
 Plugin 'jelera/vim-javascript-syntax'
 Plugin 'moll/vim-node'
 Plugin 'walm/jshint.vim'
-Plugin 'kaicataldo/material.vim'
+Plugin 'atlj/material.vim'
 
 " ...
 
